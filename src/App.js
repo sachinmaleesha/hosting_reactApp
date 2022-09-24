@@ -1,4 +1,4 @@
-
+import DisableElevation from './Button'
 import './App.css';
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
     <h2>
       Breaking changes
     </h2>
+    <DisableElevation/>
     </div>
   );
 }
